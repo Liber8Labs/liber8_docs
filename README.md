@@ -4,5 +4,7 @@ Liber8Labs is a full-service, idea-to-product blockchain for social impact devel
 Liber8Labs brings together expertise in blockchain development, social impact and socially concerned capital investors to create, develop and implement solutions to social impact issues.
 
 Twitter: @liber8labs
+
 Riot: +liber8labs:matrix.org
+
 www.liber8labs.org
